@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Brian Cherinka",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "havok2063@hotmail.com",
+  "friendly_name": "Hypermodern Python",
+  "github_user": "havok2063",
+  "license": "MIT",
+  "package_name": "hypermodern_python",
+  "project_name": "hypermodern-python",
+  "version": "0.0.0"
+}
